@@ -6,7 +6,7 @@ fun main() {
 
     println(gratitudeForOrders)
 
-    var countOfEmployees: Int = 2000
+    var countOfEmployees:Int = 2000
     //println(countOfEmployees)
 
     countOfEmployees = 1999
